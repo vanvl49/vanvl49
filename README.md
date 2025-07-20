@@ -13,4 +13,4 @@
 # Lets Connect!
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syavanasalsabila) 
 [![Email](https://img.shields.io/badge/Email-%23FF2D20.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syana.blv@gmail.com)
-[![My CV](https://img.shields.io/badge/My CV-%D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syana.blv@gmail.com) 
+[![My CV](https://img.shields.io/badge/CV-%D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syana.blv@gmail.com) 

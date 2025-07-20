@@ -11,14 +11,4 @@
 </div>
 
 # Lets Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/syavanasalsabila" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/62822571577550" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
-  <a href="mailto:syana.blv@gmail.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syavanasalsabila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syana.blv@gmail.com) 
